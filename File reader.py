@@ -9,3 +9,4 @@ def read_content(path: str) -> list:
 
 print(read_content("C:/Users/minos/Documents/ŠKOLA/Prog/2022-2023/Python/Projekty/test.txt"))
 print(read_content("C:/Users/minos/Documents/ŠKOLA/Prog/2022-2023/Python/Projekty/poem.txt"))
+print(read_content("Projekty/poem.txt"))
